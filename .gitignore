@@ -1,4 +1,10 @@
+# MSWord 
 ~$*.xlsx
 ~$*.docx
 .~lock*
 .notes
+
+# Hugo
+.hugo_build.lock
+book.scss_*.json
+book.scss_*.content
