@@ -38,19 +38,6 @@ sequens!
 
  ![image alt text](./images/biao/seifert0726_biao_0001_0.jpg)
 
-<!-- http://localhost:1313/docs/example/biao/seifert0726_biao_0001_0.jpg 
-http://localhost:1313/biao/seifert0726_biao_0001_0.jpg
-
-http://localhost:1313/biao/seifert0726_biao_0001_0.jpg
-http://localhost:1313/biao/seifert0726_biao_0001_0.jpg
-http://localhost:1313/seifert0726_biao_0001_0.jpg
-http://localhost:1313/Biao/Panels/seifert0726_biao_0001_0.jpg
-http://localhost:1313/biao/seifert0726_biao_0001_0.jpg
-http://localhost:1313/biao/seifert0726_biao_0001_0.jpg
-
-resources/_gen/images/biao/seifert0726_biao_0001_0.jpg
--->
-
 ## Locis suis novi cum suoque decidit eadem
 
 Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
