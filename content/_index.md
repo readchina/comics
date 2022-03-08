@@ -36,7 +36,7 @@ sequens!
                 graphicsNvramCdma, lpi_footer_snmp, integer_model));
     }
 
- ![image alt text](./images/biao/seifert0726_biao_0001_0.jpg)
+ ![biao cover](./images/biao/seifert0726_biao_0001_0.jpg)
 
 ## Locis suis novi cum suoque decidit eadem
 
