@@ -92,7 +92,7 @@ The basic template for a translation page is
 ```md
 # Page XX
 
- ![biao front](./../../../images/biao/seifert0726_biao_ZZZZ_ZZZ.jpg)
+ ![biao front](./../../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
 
 {{< columns >}}
 
@@ -101,9 +101,13 @@ The basic template for a translation page is
 <--->
 
 ## Translation
-
 ```
 
+To create empty template files:
+
+```bash
+touch B-page-{01..78}.md     
+```
 <!-- TODO location of the .md files -->
 
 <!-- We then split the converted markdown into sections:

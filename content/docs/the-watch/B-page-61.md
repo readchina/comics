@@ -1,0 +1,15 @@
+# Page 61
+
+ ![biao page](./../../../images/biao/seifert0726_biao_0055_061.jpg)
+
+{{< columns >}}
+
+## Source
+
+由于他劳动积极，大家一致选举他当总务组的组长。彼蒂加又高兴起来了。
+
+<--->
+
+## Translation
+
+Because he had worked energetically, everyone elected him unanimously as group leader for general affairs. This cheered Petka up again.

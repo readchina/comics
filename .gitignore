@@ -4,6 +4,9 @@
 .~lock*
 .notes
 
+# MacOS
+.DS_Store
+
 # Hugo
 .hugo_build.lock
 book.scss_*.json
