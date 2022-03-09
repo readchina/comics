@@ -29,6 +29,8 @@ If you forgot to include the submodule flags when cloning the repo run the follo
 git submodule update --init
 ```
 
+within the submodule we are on the `feature/prev-next` branch
+
 ## Building
 
 To Build a local dev version run:
@@ -90,17 +92,19 @@ Each file is then split into:
 The basic template for a translation page is
 
 ```md
-# Page XX
+---
+title: Panel xx
+---
 
- ![biao front](./../../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
+![biao front](./../../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
 
 {{< columns >}}
 
-## Source
+<!-- source -->
 
 <--->
 
-## Translation
+<!-- translation -->
 ```
 
 To create empty template files:
