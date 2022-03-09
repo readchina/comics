@@ -1,4 +1,6 @@
-## References
+---
+title: References
+---
 
 Henningsen, Lena 2022 (forthcoming): "Fictional Texts as Sites of Knowledge: From Intertexts to Transtextuality", in: Martin Hofmann, Virginia Leung, Joachim Kurtz \[ed.\]: *Wissensorte in China*, Wiesbaden: Harrassowitz.
 
