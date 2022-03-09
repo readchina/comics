@@ -28,11 +28,6 @@ jobs:
         with:
           node-version: 16.x
 
-      # - name: Install tools
-      #   run: |
-      #     sudo apt install curl jq
-      #     npm i -g postcss postcss-cli autoprefixer
-
       - uses: actions/cache@v2
         with:
           path: /tmp/hugo_cache
@@ -41,7 +36,6 @@ jobs:
             ${{ runner.os }}-hugomod-
 
       - name: Build
-        # working-directory: shouchaoben
         run: hugo --minify
 
       - name: Deploy
