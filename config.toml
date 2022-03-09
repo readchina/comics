@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://readchina.github.io/comics/'
 languageCode = 'en-us'
 title = 'Comics'
 theme = "hugo-book"
