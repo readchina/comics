@@ -8,3 +8,5 @@ theme = "hugo-book"
   BookTheme = 'auto'
 [markup.goldmark.renderer]
   unsafe = true  
+
+BookPortableLinks = true
