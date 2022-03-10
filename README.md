@@ -66,18 +66,22 @@ Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
 
-The page is visible in your broswser at [http://localhost:1313/](http://localhost:1313/)
+The page is visible in your browser at [http://localhost:1313/](http://localhost:1313/)
 
 ## Contents
 
-As always avoid spaces in file or foldernames: ~~`zhu fu/zhu fu Version 2022.md`~~ -> `zhufu/zhufu.md`. You must stick with the project layout of this repo.
+As always avoid spaces in file or folder names: ~~`zhu fu/zhu fu Version 2022.md`~~ -> `zhufu/zhufu.md`. You must stick with the project layout of this repo. Contents go into `content/docs/` folder. Create a new folder when adding a comic. 
+
+```bash
+mkdir content/docs/new-comic
+```
 
 ### Text
 
-First we need to convert the original MSWord documents into markdown using pandoc.
+Start by saving the word file in the folder you just created. Then use pandoc to convert the original document into markdown.
 
 ```bash
-pandoc …
+pandoc -s content/docs/new-comic/*.docx --wrap=none  -t markdown -o new-comic/new-comic.md 
 ```
 
 Each comic needs to be inside a top level folder using the translated title for the comic (no spaces), e.g. `the-watch/_index.md`.
@@ -93,7 +97,7 @@ The basic template for a translation page is
 
 ```md
 ---
-title: Panel xx
+title: Panel XX
 ---
 
 ![biao front](./../../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
@@ -107,22 +111,20 @@ title: Panel xx
 <!-- translation -->
 ```
 
+Use regex to create the proper markup inside the full `newcomic.md` file.
+
 To create empty template files:
 
 ```bash
 touch B-page-{01..78}.md     
 ```
-<!-- TODO location of the .md files -->
 
-<!-- We then split the converted markdown into sections:
+Then copy each page/panel into the new file. 
 
-```bash
-TODO
-``` -->
 
-### Panels
+### Images
 
-Panels go inside a folder with the comic name inside `static/images`:
+Images go inside a folder with the comic name inside `static/images`:
 
 ```bash
 static

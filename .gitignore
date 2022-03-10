@@ -2,7 +2,7 @@
 ~$*.xlsx
 ~$*.docx
 .~lock*
-.notes
+
 
 # MacOS
 .DS_Store
@@ -12,3 +12,9 @@
 book.scss_*.json
 book.scss_*.content
 public/
+
+# VSC
+.vscode/
+
+# other
+.notes
