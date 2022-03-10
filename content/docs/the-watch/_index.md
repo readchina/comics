@@ -3,11 +3,11 @@ bookCollapseSection: true
 type: docs
 ---
 
-# The Watch 表 2022-02-02
+# The Watch 表
 
 By Leonid Panteleyev, adapted by Dong Qingdong 董青冬, illustrated by Hua Sanchuan 华三川, Beijing: Lianhuanhua chubanshe, 2003. (Reprint of an earlier edition by Renmin meishu chubanshe, Beijing, 1980, translated by Laura Aymar, Bettina Jin, Piet Kortenjan, Lena Henningsen, Sascha Sacknieß, Sophia Schöller, Joshua Seiler, Miriam Stadler, Yixiong Wang and Jenny Wiggermann).[^1]
 
-## "The Watch" by Leonid Panteleyev as a Chinese Comic (*lianhuanhua*) Adaptation: Introduction to Text and Translation
+## Introduction to Text
 
 Lena Henningsen
 
@@ -24,7 +24,6 @@ Overall, the *lianhuanhua* follows the plot line set out in the original story, 
 The story gained what may be called second order prominence in 1977 through the short story "The Class Teacher" (班主任) by Liu Xinwu 刘心武 (Liu 1977). This story is one of the central texts of the scar literature genre, a first attempt to confront the pain and scars inflicted upon individuals during the Cultural Revolution. As I have elaborated elsewhere (Henningsen 2022 forthcoming), "The Watch" operates as a powerful intertext to "The Class Teacher": On the first level, Teacher Zhang, the protagonist of the story, discusses the text with his students in order to come to terms with a prospective new student in the class. Lu Xun is explicitly referred to in the story as having translated the story with "great ardor", thus adding to the weight of the story. On the second level, "The Watch" provides the narrative frame for the plot line of "The Class Teacher" as the plot of the latter text is clearly modeled on the first. Knowledge of "The Watch" thus adds another layer of interpretation to "The Class Teacher". Soon after, in 1980, the present adaptation appeared as a *lianhuanhua* -- almost contemporaneous to the *lianhuanhua* version of "The Class Teacher" (Liu 1978).
 
 {{<section>}}
-
 
 [^1]: This translation was produced in a joint translation project by BA students at the Institute of Chinese Studies, Freiburg University, supervised by Lena Henningsen. We acknowledge the support of the ERC-funded project "The Politics of Reading in the People's Republic of China" (READCHINA, Grant agreement No. 757365/SH5: 2018-2023). Special thanks go to Amanda Shuman for feedback on the English, to Maryna Yanhirava for helping out with the Russian terms and names and to our colleagues Matthias Arnold and Hanno Lecher from the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high resolution scans of the comics which are part of the Seifert collection (<https://www.asia-europe.uni-heidelberg.de/en/research/heidelberg-research-architecture/projects/hra14-chinese-comics/the-seifert-collection.html>).
 

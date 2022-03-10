@@ -22,4 +22,4 @@ Panteleyev, Leonid 2003 \[1980\]: *The Watch* 表, adapted by Zhong Qingdong 重
 
 Pantelejew, Leonid \[1958\]: *Die Uhr*, transl. by Maria Eisenstein, illustrated by Paul Rosiè, Berlin: Der Kinderbuchverlag.
 
-Pieper, Katrin 2006: "Die besten Helden: Literatur für Kinder und Jugendliche nach sowjetischen Vorbildern", in*:* Karl Eimermacher and Astrid Volpert \[ed.\]: *Tauwetter, Eiszeit und gelenkte Dialoge: Russen und Deutsche nach 1945*, München: Wilhelm Fink Verlag, 1033-1056.
+Pieper, Katrin 2006: "Die besten Helden: Literatur für Kinder und Jugendliche nach sowjetischen Vorbildern", in: Karl Eimermacher and Astrid Volpert \[ed.\]: *Tauwetter, Eiszeit und gelenkte Dialoge: Russen und Deutsche nach 1945*, München: Wilhelm Fink Verlag, 1033-1056.
