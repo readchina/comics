@@ -15,7 +15,7 @@ During the Mao years, Beijing Foreign Languages Publishing House published trans
 
 -   Zhuang Guanyu's *Manhua Journey to the West*: [https://www.nickstember.com/manhua-journey-west-part-1-6/](https://www.nickstember.com/manhua-journey-west-part-1-6/)
 
--   Chinese comic adaptation of *Star Wars*: [https://www.nickstember.com/chinese-star-wars-comic-part-1-6](https://www.nickstember.com/chinese-star-wars-comic-part-1-6)]
+-   Chinese comic adaptation of *Star Wars*: [https://www.nickstember.com/chinese-star-wars-comic-part-1-6](https://www.nickstember.com/chinese-star-wars-comic-part-1-6)
 
 -   A lianhuanhua adaptation of the science fiction story *Little Smarty Travels to the Future* by Ye Yonglie: [https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future](https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future)
 
