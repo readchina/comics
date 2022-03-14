@@ -1,6 +1,13 @@
-**Lost and Gained in Adaptation: Comic Book Adaptation of Lu Xun's "The New Year's Sacrifice" (祝福, 1974)**
+---
+bookCollapseSection: true
+type: docs
+---
 
-**Introduction to the Text and to the Translation**
+# The New Year's Sacrifice 祝福
+
+Comic book adaptation of Lu Xun's *The New Year's Sacrifice"* (祝福), illustrated by ???, translated by ???, Place??: Publisher??, 1974.[^1]
+
+## Introduction to Text
 
 **by Lena Henningsen and Ghost Tian (READCHINA, Freiburg)**[^1]
 
