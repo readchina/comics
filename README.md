@@ -100,7 +100,7 @@ The basic template for a translation page is
 title: Panel XX
 ---
 
-![biao front](./../../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
+![biao front](./../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
 
 {{< columns >}}
 

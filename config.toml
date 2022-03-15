@@ -15,6 +15,11 @@ enableGitInfo = true
   # /static/logo.png then the path would be logo.png
   BookLogo = 'logo.svg'
 
+  # (Optional, default docs) Specify root page to render child pages as menu.
+  # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
+  # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
+  BookSection = '*'
+
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
   BookRepo = 'https://github.com/readchina/comics'
