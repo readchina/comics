@@ -100,7 +100,7 @@ The basic template for a translation page is
 title: Panel XX
 ---
 
-![biao front](./../../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
+![biao front](./../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
 
 {{< columns >}}
 
@@ -109,6 +109,8 @@ title: Panel XX
 <--->
 
 <!-- translation -->
+
+{{< /columns >}}
 ```
 
 Use regex to create the proper markup inside the full `newcomic.md` file.
