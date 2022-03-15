@@ -39,19 +39,38 @@ The 1957 (republished in 1963 and reprinted again in 2005) and 1974 versions hav
 
 Two figures, nonetheless differ among the two versions: the temple attendant and the literate person appearing towards the end of the comic. As to the former, his clothes and bold head clearly identify the 1957 temple attendant as a Buddhist monk, while his 1974 counterpart is less clearly identifiable (panel 47).
 
-![zhufu2_47](./../../../images/zhufu/seifert0772_zf_0001_0.jpg)
+{{< tabs "zhufu47" >}}
+{{< tab "1957 edition" >}} ## Panel 47
 
-<!-- http://localhost:1313/images/zhufu2/47.jpeg -->
+![zhufu2_47](./../../images/zhufu2/47.jpeg)
 
-<!-- ![/var/folders/43/r7hgj47x5rd012byk2kz6gzm0000gp/T/com.microsoft.Word/WebArchiveCopyPasteTempFiles/401dc7c5287c4e3ea114baee2fc98a89.jpeg](media/image1.jpeg){width="2.5734120734908137in" height="2.322834645669291in"}![](media/image2.jpg){width="2.6770024059492563in" height="2.2551727909011374in"} -->
+source: [sohu.com](https://www.sohu.com/a/355550011_120441479)
+
+{{< /tab >}}
+{{< tab "1974 edition" >}} ## Panel 47
+
+![zhufu_47](./../../images/zhufu/seifert0772_zf_0052_047.jpg)
+{{< /tab >}}
+
+{{< /tabs >}}
+
 
 This might have to do with the fact that during the Cultural Revolution Buddhism had been one of the objects of criticism.
 
 On the penultimate panel, Xianglin's wife inquires with a literate person about life after death. In both images, she is depicted as a beggar, in a crouching pose. What differs, however, are the perspective and the looks of the anonymous literate person. In 1974 (panel 56), Xianglin's wife is in the center of the panel, her white face and hair radiating in front of the dark background, the literate person with whom she inquires is depicted at the left-hand corner of the page, only displaying half of his face. He has short hair, wears a dark coat and has what may be a book under his arm. In the 1957 version (panel 57), however, the literate person bears the markers of an early 20<sup>th</sup> century intellectual more clearly: his hair is short, he has a moustache, he wears a scarf and a simple gown and uses its sleeves to keep his hands warm. He also has a book tucked under his arm. Here, the beggar Xianglin's wife is on left-hand side while the scholar is center stage with his face at the center of the panel: Does he not look a lot like Lu Xun? By means of this depiction of the scholar and by implying an identity of the fictional character with the original author of the story, the 1957 version manages to implicitly reintroduce the first-person narrator into the plot. After all, the confrontation with Xianglin's wife's questions and inquiries into afterlife as well as the discomfort he experiences faced with his own speechlessness were the reasons for discomfort for the narrator. Likely, such a depiction of what could be perceived as "Lu Xun" -- in scholarly gown and in an ambivalent pose (after all, in the next panel, we see Xianglin's wife dead, implying the co-responsibility of the scholar in her death) might have been too much to risk in 1974 when Lu Xun had to fulfill his role as a revolutionary who contributed to the right cause with his pen unswervingly and without hesitation.
 
-![zhufu2_47](./../../zhufu2/57.jpeg)
+{{< tabs "zhufu57" >}}
+{{< tab "1957 edition" >}} ## Panel 57
 
-<!-- ![/var/folders/43/r7hgj47x5rd012byk2kz6gzm0000gp/T/com.microsoft.Word/WebArchiveCopyPasteTempFiles/f43af9e41870460a854ec759b6d7c249.jpeg](media/image3.jpeg){width="2.9973567366579177in" height="2.6923643919510063in"}![](media/image4.jpg){width="2.910990813648294in" height="2.6733595800524936in"} -->
+![zhufu2_57](./../../images/zhufu2/57.jpeg)
+source: [sohu.com](https://www.sohu.com/a/355550011_120441479)
+{{< /tab >}}
+{{< tab "1974 edition" >}} ## Panel 57
+
+![zhufu_57](./../../images/zhufu/seifert0772_zf_0062_057.jpg)
+{{< /tab >}}
+
+{{< /tabs >}}
 
 The differences in historical framing among the two versions become more obvious in their respective forewords. While the 1957 version consists of a brief summary of the plot given in relative neutral terms (as we use a digital version of the 2005 reprint which carries both a foreword and a 1963 publication remark, we assume that this is also the 1957 text, though, we cannot be fully certain of this), the 1974 foreword is more elaborate: The plot summary is about twice as long, uses much stronger vocabulary to present the story in the rhetoric of the Cultural Revolution. A second page of the same length reinforces this, first, by framing the story (and the *lianhuanhua*) as a valuable contribution to the current campaign to criticize Lin Biao and Confucius, second, by pointing out how the suffering of Xianglin's wife can be attributed to feudalism and the teachings of Confucius and Menzius and, third, by pointing out how Lu Xun intended to mobilize the "people to struggle against these cannibalistic forces" thus not only emphasizing the revolutionary nature of Lu Xun and his literature but also making use of the cannibalism trope.
 
