@@ -1,5 +1,5 @@
 ---
-title: Panel 65
+title: Page 65
 ---
 
 ![biao page](./../../images/biao/seifert0726_biao_0059_065.jpg)
