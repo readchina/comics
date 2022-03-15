@@ -11,3 +11,5 @@ title: Panel 08
 <--->
 
 "Comrade director, please let me free! Look at this wonderful golden watch!" Sure enough, there was a hand reaching through the gap in the wall. There was a twisting sparkling golden watch in its palm. All sorts of little charms were hanging on the watch chain.
+
+{{< /columns >}}

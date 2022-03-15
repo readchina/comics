@@ -11,3 +11,5 @@ title: Panel 20
 <--->
 
 When Little Ergazi recognized Niqiu's voice, he waved his hand and shouted: "Let's go! Beat this big-headed ghost!" Following that, a dozen children collectively jumped into the water and chased after Niqiu.
+
+{{< /columns >}}

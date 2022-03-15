@@ -11,3 +11,5 @@ title: Panel 09
 <--->
 
 Petka could clearly hear the watch ticking, and his heart started to beat in time with the watch. "How lucky!" He grabbed the watch so happy he could hardly breathe, and suddenly the blood rushed to his head.
+
+{{< /columns >}}

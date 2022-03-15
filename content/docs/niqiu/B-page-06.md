@@ -11,3 +11,5 @@ title: Panel 06
 <--->
 
 At the patch, Niqiu always was busy. When he was not cutting the melon vines, he was picking out earthworms, all the while shouting: "A huge watermelon full of mushy pulp sweetens everyone's life!"
+
+{{< /columns >}}

@@ -11,3 +11,5 @@ title: Panel 34
 <--->
 
 The spy bared his mouth full of gold teeth and said complacently: "Neither of you snatch it, I saw it first." As he was speaking, he rushed into the water in his loosely fitting knickerbockers.
+
+{{< /columns >}}

@@ -11,3 +11,5 @@ title: Panel 54
 <--->
 
 When Niqiu heard them, he formed his hands to a tube, raised them to his mouth and answered: "I am heeeeeeeere!"
+
+{{< /columns >}}

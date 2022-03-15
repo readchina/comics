@@ -11,3 +11,5 @@ title: Panel 37
 <--->
 
 The spy wiggled and waded towards the watermelon and squeezed his nose and eyes in happiness. As he was reaching for the melon, a sudden "Oh my!" was followed by an abrupt silence.
+
+{{< /columns >}}

@@ -11,3 +11,5 @@ title: Panel 03
 <--->
 
 Uncle Zhang was injured and annoyed, and he was bedridden. Also, no one was able to tidy up the watermelon patch.
+
+{{< /columns >}}

@@ -11,3 +11,5 @@ title: Panel 42
 <--->
 
 Then, Niqiu found a small piece of a broken bowl. With the help of this shard, wedged between the teeth of the spy, Niqiu pried open the spy's mouth, and black water flowed out.
+
+{{< /columns >}}

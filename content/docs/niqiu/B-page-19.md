@@ -11,3 +11,5 @@ title: Panel 19
 <--->
 
 He pushed with his hands, stomped with his feet and the upper part of his body emerged from the water. He shook his watermelon head and happily began to sing a Yangge tune.
+
+{{< /columns >}}

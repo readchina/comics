@@ -11,3 +11,5 @@ title: Panel 18
 <--->
 
 As they crossed the lively market, Petka only had one thought: "Run away!" The policeman read his mind. "Want to slip away? Just run away then!" But he answered seriously: "I won't run away! Even if you beat me to death, I won't run away."
+
+{{< /columns >}}

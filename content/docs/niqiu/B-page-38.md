@@ -11,3 +11,5 @@ title: Panel 38
 <--->
 
 The two puppet soldiers thought he was just pretending, so the tall one said: "Stop acting, no one\'s going to fight you for it!" Watching the bubbles rise up to the surface, the short one said: "Come on up, stop blowing bubbles there!"
+
+{{< /columns >}}

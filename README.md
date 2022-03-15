@@ -109,6 +109,8 @@ title: Panel XX
 <--->
 
 <!-- translation -->
+
+{{< /columns >}}
 ```
 
 Use regex to create the proper markup inside the full `newcomic.md` file.

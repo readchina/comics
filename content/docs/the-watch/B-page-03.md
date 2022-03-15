@@ -11,3 +11,5 @@ title: Panel 03
 <--->
 
 The woman chased after him, grabbed his shoulder and shouted: "You thief! Give back my pancake!"
+
+{{< /columns >}}

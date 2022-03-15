@@ -11,3 +11,5 @@ title: Panel 10
 <--->
 
 By then, Uncle Zhang was feeling a lot better. When he saw Niqiu bringing the watermelon, he sat up, rejoicing. Niqiu held the huge watermelon in his arms and asked Uncle Zhang to try it.
+
+{{< /columns >}}

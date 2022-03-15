@@ -11,3 +11,5 @@ title: Panel 10
 <--->
 
 The drunkard stomped his feet and yelled as if he had been stabbed: "Ah, help! Bandits..." Petka was scared and held the watch tightly. All of a sudden, he had a good idea.
+
+{{< /columns >}}
