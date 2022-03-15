@@ -1,7 +1,3 @@
-The New Year's Sacrifice
-
-Lu Xun 鲁迅 1974: *The New Year's Sacrifice* 祝福, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, translated by Stefanie Gondorf, Lena Henningsen, Charlotte Kräker, Jingying Li, Ghost Tian, Beijing: Beijing renmin meishu chubanshe.
-
 Preface to the 1957 edition 
 
 内容说明
@@ -54,7 +50,7 @@ During the trial period, Xianglin's wife worked around the clock and seemed to g
 
 Xianglin's wife did not talk much and answered only when addressed, and her answers were brief. A dozen days had passed before other people learned bit-by-bit, that she had a harsh mother-in-law at home and a younger brother-in-law; she had lost her husband in the spring; her husband, 10 years younger than her, had gathered firewood for a living before he died. These were all that people knew about her.
 
-6\. 日子很快的过去了，她的做工却毫没有松懈。人们都说鲁四老爷家里雇着了女工， 实在比勤快的男人还勤快。到年底，扫尘，洗地， 杀鸡，宰鹅，彻夜的煮福礼， 全是一人担当，竟没有添短工。她的口角边渐渐的有了笑影，脸上也白胖了。
+6\. 日子很快的过去了，她的做工却毫没有松懈。人们都说鲁四老爷家里雇着了女工，实在比勤快的男人还勤快。到年底，扫尘，洗地， 杀鸡，宰鹅，彻夜的煮福礼， 全是一人担当，竟没有添短工。她的口角边渐渐的有了笑影，脸上也白胖了。
 
 The days passed quickly, but her work never slacked off. Everyone said the female worker employed by Mr. Lu indeed was more diligent than a diligent man. By the end of the year, sweeping the dust, washing the ground, killing the chickens, slaughtering the geese, and preparing blessing ceremonies all night long, all of which were done by her alone without additional short-term helpers. The corners of her mouth gradually had a hint of a smile, her face also grew fairer and plumber.
 
