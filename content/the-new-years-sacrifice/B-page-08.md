@@ -1,5 +1,5 @@
 ---
-title: Panel 08
+title: Page 08
 ---
 
 ![zhufu panel](./../../images/zhufu/seifert0772_zf_0013_008.jpg)

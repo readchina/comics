@@ -1,5 +1,5 @@
 ---
-title: Panel 06
+title: Page 06
 ---
 
 ![zhufu panel](./../../images/zhufu/seifert0772_zf_0011_006.jpg)

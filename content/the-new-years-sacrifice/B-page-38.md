@@ -1,5 +1,5 @@
 ---
-title: Panel 38
+title: Page 38
 ---
 
 ![zhufu panel](./../../images/zhufu/seifert0772_zf_0043_038.jpg)

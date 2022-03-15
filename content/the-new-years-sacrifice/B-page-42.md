@@ -1,5 +1,5 @@
 ---
-title: Panel 42
+title: Page 42
 ---
 
 ![zhufu panel](./../../images/zhufu/seifert0772_zf_0047_042.jpg)
