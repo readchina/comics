@@ -1,5 +1,5 @@
 ---
-title: front
+title: frontmatter 01
 ---
 
 ![zhufu front](./../../../images/zhufu/seifert0772_zf_0003_0.jpg)
