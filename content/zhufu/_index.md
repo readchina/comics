@@ -1,6 +1,7 @@
 ---
 bookCollapseSection: true
 type: docs
+title: The New Year's Sacrifice 祝福 (1974)
 ---
 
 # The New Year's Sacrifice 祝福 (1974)

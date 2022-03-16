@@ -1,6 +1,7 @@
 ---
 bookCollapseSection: true
 type: docs
+title: The Watch 表 (1980)
 ---
 
 # The Watch 表 (1980)
