@@ -70,7 +70,7 @@ The page is visible in your browser at [http://localhost:1313/](http://localhost
 
 ## Contents
 
-As always avoid spaces in file or folder names: ~~`zhu fu/zhu fu Version 2022.md`~~ -> `zhufu/zhufu.md`. You must stick with the project layout of this repo. Contents go into `content/docs/` folder. Create a new folder when adding a comic. 
+As always avoid spaces in file or folder names: ~~`zhu fu/zhu fu Version 2022.md`~~ -> `zhufu/zhufu.md`. You must stick with the project layout of this repo. Contents go into `content/docs/` folder. Create a new folder when adding a comic.
 
 ```bash
 mkdir content/docs/new-comic
@@ -81,23 +81,22 @@ mkdir content/docs/new-comic
 Start by saving the word file in the folder you just created. Then use pandoc to convert the original document into markdown.
 
 ```bash
-pandoc -s content/docs/new-comic/*.docx --wrap=none  -t markdown -o new-comic/new-comic.md 
+pandoc -s content/docs/new-comic/*.docx --wrap=none  -t markdown -o new-comic/new-comic.md
 ```
 
 Each comic needs to be inside a top level folder using the translated title for the comic (no spaces), e.g. `the-watch/_index.md`.
 Each file is then split into:
-- `_index.md` (contains the introduction)
+- `_index.md` (contains the introduction and references)
 - `A-translation-notes.md`
-  - `B-cover.md`
-  - `B-front.md`
+  - `B-front-and-back-cover.md`
+  - `B-frontmatter.md`
   - `B-page-XX.md`
-- `C-references.md`
 
 The basic template for a translation page is
 
 ```md
 ---
-title: Panel XX
+title: Page XX
 ---
 
 ![biao front](./../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
@@ -121,7 +120,7 @@ To create empty template files:
 touch B-page-{01..78}.md     
 ```
 
-Then copy each page/panel into the new file. 
+Then copy each page/panel into the new file.
 
 
 ### Images
@@ -152,7 +151,7 @@ To include images in your markdown use:
 Deployments is fully automated on GitHub Actions. In cases where you need to debug the build, run:
 
 ```bash
-hugo 
+hugo
 ```
 
 This will create a `public/` folder containing the compiled webpage. You should delete this folder after debugging as Hugo will not remove its contents before subsequent builds.

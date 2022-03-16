@@ -1,5 +1,5 @@
 ---
-title: Panel 13
+title: Page 13
 ---
 
 ![niqiu page](./../../images/niqiu/seifert0397_nqkg_0017_013.jpg)
