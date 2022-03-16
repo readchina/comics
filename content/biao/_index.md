@@ -3,7 +3,7 @@ bookCollapseSection: true
 type: docs
 ---
 
-# The Watch 表
+# The Watch 表 (1980)
 
 By Leonid Panteleyev, adapted by Dong Qingdong 董青冬, illustrated by Hua Sanchuan 华三川, Beijing: Lianhuanhua chubanshe, 2003. (Reprint of an earlier edition by Renmin meishu chubanshe, Beijing, 1980, translated by Laura Aymar, Bettina Jin, Piet Kortenjan, Lena Henningsen, Sascha Sacknieß, Sophia Schöller, Joshua Seiler, Miriam Stadler, Yixiong Wang and Jenny Wiggermann).[^1]
 
