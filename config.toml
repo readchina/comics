@@ -24,6 +24,11 @@ enableGitInfo = true
   # Used for 'Last Modified' and 'Edit this page' links.
   BookRepo = 'https://github.com/readchina/comics'
 
+  # Enable "Edit this page" links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # Edit path must point to root directory of repo.
+  BookEditPath = 'edit/main'
+
 [markup.goldmark.renderer]
   unsafe = true  
 
