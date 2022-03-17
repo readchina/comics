@@ -1,7 +1,14 @@
 <div id="sponsors" class="flex flex-wrap justify-between" style="max-height: 150px;">
-    <!-- <img src="{{ "logo.svg" | relURL }}" style="height: 150%; width: 15%;"/> -->
+    {{ if eq .Site.Params.BookTheme "dark" }}
     <img src="{{ "images/logo02-readc.png" | relURL }}" style="height: 300%; width: 45%;"/>
     <img src="{{ "images/logo01-erc.jpg" | relURL }}" style="height: 300%; width: 30%;"/>
     <img src="{{ "images/logo03-uni-fb.png" | relURL }}" style="height: 150%; width: 15%;"/>
+    {{ end }}
+
+    {{ if eq .Site.Params.BookTheme "light" }}
+        <img src="{{ "images/logo02-readc.png" | relURL }}" class="invert" style="height: 150%; width: 35%;"/>     
+        <img src="{{ "images/logo01-erc.jpg" | relURL }}" style="height: 300%; width: 30%;"/>
+        <img src="{{ "images/logo03-uni.png" | relURL }}" style="height: 150%; width: 25%;"/>
+    {{ end }}
+
 </div>
-<!-- <p>foot</p> -->
