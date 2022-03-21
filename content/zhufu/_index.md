@@ -67,9 +67,9 @@ On the penultimate page, Xianglin's wife inquires with a literate person about l
 ![zhufu2_57](./../images/zhufu2/57.jpeg)
 source: [sohu.com](https://www.sohu.com/a/355550011_120441479)
 {{< /tab >}}
-{{< tab "1974 edition" >}} ## Page 57
+{{< tab "1974 edition" >}} ## Page 56
 
-![zhufu_57](./../images/zhufu/seifert0772_zf_0062_057.jpg)
+![zhufu_57](./../images/zhufu/seifert0772_zf_0061_056.jpg)
 {{< /tab >}}
 
 {{< /tabs >}}
