@@ -13,17 +13,19 @@ For most of the 20<sup>th</sup> century, pocket size comic books (*lianhuanhua* 
 
 During the Mao years, Beijing Foreign Languages Publishing House published translations of comics into various foreign languages. In addition, the 1970s saw a few translations published outside China (most notably a translation into Italian published by Gino Nebiolo et al and retranslated into English and German; and a translation of excerpts of *lianhuanhua* into German prepared by Wolfgang Bauer). Today, more *lianhuanhua* in translation can be found online, such as:
 
+- *Into the Tiger’s Den* 深入虎穴, adapted from the novel by Qu Bo 曲波 *Tracks in the Snowy Forest* 林海雪原: [https://u.osu.edu/mclc/online-series/into-the-tigers-den/](https://u.osu.edu/mclc/online-series/into-the-tigers-den/)
+
 - Zhuang Guanyu's *Manhua Journey to the West*: [https://www.nickstember.com/manhua-journey-west-part-1-6/](https://www.nickstember.com/manhua-journey-west-part-1-6/)
 
-- Chinese comic adaptation of *Star Wars*: [https://www.nickstember.com/chinese-star-wars-comic-part-1-6](https://www.nickstember.com/chinese-star-wars-comic-part-1-6)
+- Chinese *lianhuanhua* adaptation of *Star Wars*: [https://www.nickstember.com/chinese-star-wars-comic-part-1-6](https://www.nickstember.com/chinese-star-wars-comic-part-1-6)
 
-- A lianhuanhua adaptation of the science fiction story *Little Smarty Travels to the Future* by Ye Yonglie: [https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future](https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future)
+- A *lianhuanhua* adaptation of the science fiction story *Little Smarty Travels to the Future* by Ye Yonglie: [https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future](https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future)
 
-- A comic adaptation of the scar literature short story *Maple* by Zheng Yi: [https://u.osu.edu/mclc/online-series/maple](https://u.osu.edu/mclc/online-series/maple)
+- A *lianhuanhua* adaptation of the scar literature short story *Maple* by Zheng Yi: [https://u.osu.edu/mclc/online-series/maple](https://u.osu.edu/mclc/online-series/maple)
 
 ## Further Reading
 
-For further reading on Chinese graphic narratives, including *lianhuanhua* but also the cartoon-like genre of manhua 漫画. and others, see for example:
+For further reading on Chinese graphic narratives, including *lianhuanhua* but also the cartoon-like genre of *manhua* 漫画. and others, see for example:
 
 Altehenger, Jennifer 2012: "Kopieren für die Revolution: Die Cartoonreproduktionskampagne in der Volksrepublik China 1950-52", in: Henningsen, Lena, Martin Hofmann \[ed.\]: *Tradition? Variation? Plagiat? Motive und ihre Adaption in China,* (Jahrbuch der Deutschen Vereinigung für Chinastudien 6), Wiesbaden: Harrassowitz, 2012, 295-307.
 
