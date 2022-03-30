@@ -1,9 +1,9 @@
-googleAnalytics = "G-0V2LQT41CG"
+googleAnalytics = 'G-0V2LQT41CG'
 
 baseURL = 'https://readchina.github.io/comics/'
 languageCode = 'en-us'
 title = 'Comics'
-theme = "hugo-book"
+theme = 'hugo-book'
 
 # Book configuration
 enableGitInfo = true
