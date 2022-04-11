@@ -25,7 +25,7 @@ During the Mao years, Beijing Foreign Languages Publishing House published trans
 
 ## Further Reading
 
-For further reading on Chinese graphic narratives, including *lianhuanhua* but also the cartoon-like genre of *manhua* 漫画. and others, see for example:
+For further reading on Chinese graphic narratives, including *lianhuanhua* but also the cartoon-like genre of *manhua* 漫画 and others, see for example:
 
 Altehenger, Jennifer 2012: "Kopieren für die Revolution: Die Cartoonreproduktionskampagne in der Volksrepublik China 1950-52", in: Henningsen, Lena, Martin Hofmann \[ed.\]: *Tradition? Variation? Plagiat? Motive und ihre Adaption in China,* (Jahrbuch der Deutschen Vereinigung für Chinastudien 6), Wiesbaden: Harrassowitz, 2012, 295-307.
 
