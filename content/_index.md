@@ -39,7 +39,7 @@ Chen, Minjie 2012: "Chinese *Lian Huan Hua* and Literacy: Popular Culture Meet
 
 Chen, Minjie 2015: "Linked Pictures: A Genre of Chinese Illustrated Books", in: Cotsen Children's Library, Princeton University, [https://blogs.princeton.edu/cotsen/2015/06/chinese-illustrated-books/](https://blogs.princeton.edu/cotsen/2015/06/chinese-illustrated-books/), June 19, 2015, last access 2021-02-10.
 
-Crespi, John A. 2020: Manhua Modernity: Chiense Culture and the Pictorial Turn, Oakland: University of California Press.
+Crespi, John A. 2020: Manhua Modernity: Chinese Culture and the Pictorial Turn, Oakland: University of California Press.
 
 Farquhar, Mary Ann 1999: *Children's Literature in China: From Lu Xun to Mao Zedong*, Armonk: Routledge.
 
