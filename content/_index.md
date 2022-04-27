@@ -39,7 +39,7 @@ Chen, Minjie 2012: "Chinese *Lian Huan Hua* and Literacy: Popular Culture Meet
 
 Chen, Minjie 2015: "Linked Pictures: A Genre of Chinese Illustrated Books", in: Cotsen Children's Library, Princeton University, [https://blogs.princeton.edu/cotsen/2015/06/chinese-illustrated-books/](https://blogs.princeton.edu/cotsen/2015/06/chinese-illustrated-books/), June 19, 2015, last access 2021-02-10.
 
-Crespi, John A. 2020: Manhua Modernity: Chinese Culture and the Pictorial Turn, Oakland: University of California Press.
+Crespi, John A. 2020: *Manhua Modernity: Chinese Culture and the Pictorial Turn*, Oakland: University of California Press.
 
 Farquhar, Mary Ann 1999: *Children's Literature in China: From Lu Xun to Mao Zedong*, Armonk: Routledge.
 
@@ -53,7 +53,7 @@ Lent, John A. 2010: "Manga in East Asia", in Toni Johnson-Woods \[ed.\]: Manga: 
 
 Lent, John A. 2021: "Women and Asian Comic Art: Gendered Genres, Female Portrayals, and the Creative Industries", in: Benjamin Woo, Jeremy Stoll \[eds.\]: *The Comics World: Comic Books, Graphic Novels, and Their Publics*, Jackson: University Press of Mississippi, 32-50.
 
-Lent, John A., Xu Ying 2017: Comics Art in China, Jackson: University Press of Mississippi.
+Lent, John A., Xu Ying 2017: *Comics Art in China*, Jackson: University Press of Mississippi.
 
 Mandzunowski, Damian 2019: "Caricatures Criticizing the Gang of Four: Contributors and Publications", in: *The Maoist Legacy*, [https://maoistlegacy.de/db/caricatures-criticizing-the-gang-of-four](https://maoistlegacy.de/db/caricatures-criticizing-the-gang-of-four), 1 February 2019, last access February 4, 2022.
 
