@@ -9,13 +9,17 @@ title: The New Year's Sacrifice 祝福 (1974)
 Lu Xun 鲁迅 1974: *The New Year's Sacrifice* 祝福, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, translated by Stefanie Gondorf, Lena Henningsen, Charlotte Kräker, Jingying Li, Ghost Tian, Beijing: Beijing renmin meishu chubanshe, 1974.[^1]
 
 
-## Introduction to the Text
+## Lost and Gained in Adaptation: 
+
+Comic Book Adaptation of Lu Xun’s “The New Year’s Sacrifice” (祝福, 1974) 
+
+### Introduction to the Text
 
 Lena Henningsen and Ghost Tian
 
 The 1974 *lianhuanhua* adaptation of Lu Xun's (鲁迅, 1881-1936) famous short story "The New Year's Sacrifice" (祝福, 1924) represents a distinct interpretation of the original. The comic can be seen as a work of art in its own right, yet it is firmly situated in Maoist discourses and in textual practices of the time. In the following, we will briefly sketch this situation, point out how the comic differs from the original as well as from an earlier adaptation. Doing so, we argue that in the process of adaptation the figure of the narrator is lost -- yet, through the images, the story also gains.
 
-## "The New Year's Sacrifice": Lu Xun in Maoist China
+### "The New Year's Sacrifice": Lu Xun in Maoist China
 
 "The New Year's Sacrifice" relates the story of Xianglin's wife: It is the story of a poor woman suffering misfortune throughout life. Her misfortune is exacerbated by the social norms of her day. She is poor to begin with, loses two husbands and her young son who is eaten by a wolf. Not only does she have to struggle constantly to make a living, she also suffers as people assume her to have accumulated sin which caused these deaths. The family which employs her even considers her unclean and thus bars her from participating in the spiritual rituals conducted during the Chinese New Year celebrations. Unable to find a way to atone for her assumed sins, Xianglin's wife loses her mind, her job, her dignity, and, finally, her life.
 
@@ -23,7 +27,7 @@ In this story, Lu Xun clearly blames superstition and old customs for the fate i
 
 As such, "The New Year's Sacrifice" is very much in line with the CCP's take on 'superstitious' and 'feudal' practices. The modernist left-wing writer Lu Xun became a central figure in Mao Zedong's literary policies. In the 1942 Yan'an talks (McDougall 1980; Denton 2016), Mao established Lu Xun as one of the core models for Chinese authors to emulate. Later on, official discourse propagated Lu Xun as a revolutionary, including on propaganda posters from the early to mid 1970s (see, for example the posters collected in the [Landsberger collection](https://chineseposters.net), i.e. coinciding with the publication of this comic book. Lu Xun's works continued to be published in the PRC years, with numerous comic adaptations of this stories, and also a wave of internal publications of works by and about Lu Xun setting off in 1972 (Henningsen 2021: 173) when cultural life during the Cultural Revolution began to relax. After the Cultural Revolution, yet and another *lianhuanhua* version was published, entitled *Xianglin's Wife* 祥林嫂 based on movie stills (Lu Xun 1979).
 
-## "The New Year's Sacrifice" in *lianhuanhua* adaptation(s)
+### "The New Year's Sacrifice" in *lianhuanhua* adaptation(s)
 
 This is the context which saw the publication of the present *The New Year's Sacrifice* comic. Or rather, it saw the remake of a *The New Year's Sacrifice* comic, as the artists (Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧) redid their earlier *lianhuanhua* book in 1974. The present version rests on the adaptation of the text by Xu Gan 徐淦 from 1957 with only minor changes. The images, however, are entirely redrawn in different style. Two aspects are particularly noteworthy, both of them resulting in a reduction of complexity of the *lianhuanhua* versions vis-à-vis the original short story. One is a reduction in complexity of the plot as the first-person narrator of the story is lost in adaptation -- the other a stylistic reduction of the complexity of emotions that result from the style of the text and the accompanying images.
 
@@ -35,7 +39,7 @@ In the original text, in candidly revealing through inner thoughts his complacen
 
 Lacking this narrative framework of the uncaring spectator and centering only on the experiences of Xianglin's wife, the *lianhuanhua* adaptation presents a simplistically sympathetic story which does not achieve the critical complexity of the original text. Unlike the original where two central characters---the first-person narrator and Xianglin's wife---blur the standard distinction between protagonist and antagonistic forces, the *lianhuanhua* is told from the removed point of view of an omniscient narrator with Xianglin's wife acting as a clear protagonist. The comic's text focuses on event description rather than psychological explication as in the original, and its images likewise are drawn in a realistic style with little depiction of emotional or mental states; readers are thus provided a straightforward telling of plot with no imposition of external analysis. In this way, the *lianhuanhua* is akin to a blank slate onto which readers may project their own understandings and feelings without the influence of a given narrational perspective. Because readers are likely to sympathize with the protagonist of a story, the foremost emotional takeaway from the *lianhuanhua* adaptation becomes one of simple compassion or pity rather than the disquiet aroused when asked to embody in the first-person an indifferent narrator placed in opposition to a suffering protagonist. This unsophisticated call to sympathy is an easy task for readers to fulfill, especially for a tragic character such as Xianglin's wife, and does not invite the critical reflection on societal apathy that is fundamental to Lu Xun's original short story.
 
-## "The New Year's Sacrifice": Continuity and change from 1957 to 1974
+### "The New Year's Sacrifice": Continuity and change from 1957 to 1974
 
 The 1957 (republished in 1963 and reprinted again in 2005) and 1974 versions have only minor changes in the texts below the panels. Only page 55 sees a larger change, with the merging of two pages into one in the 1974 version (pages 55+56 in the 1957 version are merged into one page in 1974). The images accompanying the text are similar in that often the persons are displayed in similar arrangements, though, often from different angles. The style of the images, nonetheless, is very different. While the 1974 version is drawn in watercolors, the earlier version is black and white drawings which allow and call for more simplification in style.
 
