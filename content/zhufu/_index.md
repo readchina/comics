@@ -9,9 +9,13 @@ title: The New Year's Sacrifice 祝福 (1974)
 Lu Xun 鲁迅 1974: *The New Year's Sacrifice* 祝福, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, translated by Stefanie Gondorf, Lena Henningsen, Charlotte Kräker, Jingying Li, Ghost Tian, Beijing: Beijing renmin meishu chubanshe, 1974.[^1]
 
 
-## Introduction to the Text
+## Lost and Gained in Adaptation: 
+
+#### Comic Book Adaptation of Lu Xun’s “The New Year’s Sacrifice” (祝福, 1974) 
 
 Lena Henningsen and Ghost Tian
+
+## Introduction to the Text
 
 The 1974 *lianhuanhua* adaptation of Lu Xun's (鲁迅, 1881-1936) famous short story "The New Year's Sacrifice" (祝福, 1924) represents a distinct interpretation of the original. The comic can be seen as a work of art in its own right, yet it is firmly situated in Maoist discourses and in textual practices of the time. In the following, we will briefly sketch this situation, point out how the comic differs from the original as well as from an earlier adaptation. Doing so, we argue that in the process of adaptation the figure of the narrator is lost -- yet, through the images, the story also gains.
 
