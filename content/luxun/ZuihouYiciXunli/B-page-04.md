@@ -2,14 +2,14 @@
 title: Page 04
 ---
 
-![luxun front](../../../images/luxun/ZuihouYiciXunli/4-page-00001.jpg)
+![luxun front](../../../images/luxun/ZuihouYiciXunli/5-page-00001.jpg)
 
 {{< columns >}}
 
-鲁迅踏进会场，整个会场顿时轰动起来。一群木刻青年立刻围上来，热烈地向他问候，关切地询问他的健康状况。鲁迅坦率地回答：“不好，不好，今年九个月中，足足大病了六个月。”说着，又是一阵咳嗽，脸色很苍白。
+青年们看着他那瘦弱的身躯，心里十分难过，都劝他坐下歇一会儿。鲁迅却径直向展品走去。他仔细观看挂在墙上的每一幅作品，当他看到这些青年刻苦创作的作品，确比过去有了进步时，脸上露出了欣慰的笑容。
 
 <--->
 
-Als Lu Xun den Ausstellungssaal betrat, sorgte dies im ganzen Saal sofort für Aufsehen. Eine Gruppe junger Holzschnittkünstler gesellte sich sofort um ihn, grüßte ihn freundlich und fragte besorgt nach seinem Gesundheitszustand. Lu Xun antwortete geradeheraus: „Mir geht es nicht gut, wirklich nicht. Von neun Monaten war ich dieses Jahr ganze sechs Monate schwer krank.“ Als er das sagte, erlitt er einen weiteren Hustenanfall, und sein Gesicht war ganz blass. 
+Lu Xuns schlechter Gesundheitszustand machte die jungen Leute ganz traurig. Sie drängten ihn sich hinzusetzen und sich eine Weile auszuruhen, doch Lu Xun ging geradewegs auf die Ausstellungsstücke zu. Er schaute sich jedes einzelne der Werke, die an der Wand hingen, genauestens an. Und als er die Werke sah, welche diese jungen Leute in mühsamer Arbeit erschaffen hatten, und feststellte, dass diese sich im Vergleich zu früher verbessert hatten, zeigte sich auf seinem Gesicht ein zufriedenes Lächeln.
 
 {{< /columns >}}

@@ -2,14 +2,14 @@
 title: Page 05
 ---
 
-![luxun front](../../../images/luxun/ZuihouYiciXunli/5-page-00001.jpg)
+![luxun front](../../../images/luxun/ZuihouYiciXunli/6-page-00001.jpg)
 
 {{< columns >}}
 
-青年们看着他那瘦弱的身躯，心里十分难过，都劝他坐下歇一会儿。鲁迅却径直向展品走去。他仔细观看挂在墙上的每一幅作品，当他看到这些青年刻苦创作的作品，确比过去有了进步时，脸上露出了欣慰的笑容。
+参观到一半，鲁迅顺手翻了一本意见簿，见上面写着“艺术之光”之类的捧场话，就说：“这是‘匾’。”青年们都笑了。他们领会鲁迅深刻的含意：盲目的捧场话如同高挂在厅堂前面歌功颂德的“匾”一样，对青年人是没有好处的。
 
 <--->
 
-Lu Xuns schlechter Gesundheitszustand machte die jungen Leute ganz traurig. Sie drängten ihn sich hinzusetzen und sich eine Weile auszuruhen, doch Lu Xun ging geradewegs auf die Ausstellungsstücke zu. Er schaute sich jedes einzelne der Werke, die an der Wand hingen, genauestens an. Und als er die Werke sah, welche diese jungen Leute in mühsamer Arbeit erschaffen hatten, und feststellte, dass diese sich im Vergleich zu früher verbessert hatten, zeigte sich auf seinem Gesicht ein zufriedenes Lächeln.
+Als er sich die Ausstellung zur Hälfte angesehen hatte, blätterte Lu Xun beiläufig in einem Gästebuch zur Ausstellung. Er sah, dass darin lobende Worte wie „Der Ruhm der Kunst“ und Ähnliches eingetragen waren und sagte: „Das ist doch eine ‚Schrifttafel‘.“ Die jungen Leute lachten. Sie verstanden die tiefere Bedeutung von Lu Xuns Worten: Genau wie die Lobhudeleien einer ‚Schrifttafel‘, die hoch über dem Eingang zu einer Halle hängt, hatte blindes Lob für die jungen Leute keinerlei Nutzen.
 
 {{< /columns >}}

@@ -2,14 +2,14 @@
 title: Page 12
 ---
 
-![luxun front](../../../images/luxun/MaiShuDeGuShi/12-page-00001.jpg)
+![luxun front](../../../images/luxun/MaiShuDeGuShi/13-page-00001.jpg)
 
 {{< columns >}}
 
-鲁迅微笑着点了点头，对他说："这本《铁流》因为是另一位先生翻译的，所以收回一点成本；我那一本，是送给你的。"青年抑制不住内心的激动，眼眶里滚动着泪花，连忙掏出那枚带着体温的银元，放到鲁迅手里。
+青年有多少话要跟鲁迅说啊，可是一时不知从哪里说起。他深情地看了鲁迅一眼，恭敬地鞠了一个躬，把那两本凝结着深厚革命情谊的书小心地装进帆布袋，匆匆地走出了店门。
 
 <--->
 
-Lu Xun nickte lächelnd und sagte zu ihm: „Dieses Buch *Der eiserne Strom* hat ein anderer Herr übersetzt, daher muss ich von dir einen Teil der Kosten dafür einziehen. Das von mir übersetzte Buch aber schenke ich dir." Der junge Mann konnte seine innere Aufregung nicht mehr verbergen, sodass ihm Tränen in die Augen stiegen. Eilig zog er die Silbermünze, die noch seine Körperwärme trug, heraus und legte sie Lu Xun in die Hand.
+Der junge Mann wollte Lu Xun so viel sagen, doch in dem Moment wusste er nicht, wo er anfangen sollte. Er schaute Lu Xun mit tiefer Zuneigung an, verbeugte sich respektvoll, steckte die beiden Bücher, die von einer tiefen revolutionären Freundschaft zeugten, vorsichtig in seine Leinentasche und verließ schnellen Schrittes den Laden.
 
 {{< /columns >}}

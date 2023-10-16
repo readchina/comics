@@ -2,14 +2,14 @@
 title: Page 17
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/17-page-00001.jpg)
+![luxun front](../../../images/luxun/YifuMukeDeGushi/18-page-00001.jpg)
 
 {{< columns >}}
 
-“最惨的是和我关在同一房间里的一个年青农民。反动派说他是红军军长，把缝衣针插进他的指甲缝里，插了一只又一只，十个指头都插满了，但是他至死不招。到现在，他那坚贞不屈的形象，还时刻浮现在我的眼前。”
+青年还告诉鲁迅，他虽然被释放了，但还是很不自由，经常受到特务的监视，很感痛苦。鲁迅鼓励他说：“人生现在实在苦痛，但是我们总要战取光明，即使自己遇不到，也可以留给后来的！我们就这样的\[sic\]活下去吧！”
 
 <--->
 
-„Am Schlimmsten erging es einem jungen Bauern, der mit mir in eine Zelle gesperrt war. Die Reaktionäre meinten, er wäre ein Offizier der Roten Armee, und so bohrten sie ihm Nähnadeln unter die Fingernägel, eine Nadel nach der anderen, an allen zehn Fingern, aber bis er starb, gab er kein Geständnis ab. Bis zum heutigen Tag ist mir sein entschlossener und unbeugsamer Ausdruck noch immer vor Augen.“
+Der Jugendliche erzählte Lu Xun außerdem noch, dass er, obwohl er freigelassen wurde, trotzdem nicht sehr frei war und häufig von Spitzeln einer Spezialeinheit überwacht wurde, was ihn sehr quälte. Lu Xun sagte ermunternd zu ihm: „Das Leben heutzutage ist in der Tat eine Qual. Dennoch sollten wir stets zuversichtlich bleiben, und auch wenn wir gewisse Dinge nicht erreichen können, so können wir sie jenen übertragen, die nach uns kommen werden. Lass uns nach dieser Maxime weiterleben!“
 
 {{< /columns >}}

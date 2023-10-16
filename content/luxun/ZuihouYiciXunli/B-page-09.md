@@ -2,14 +2,14 @@
 title: Page 09
 ---
 
-![luxun front](../../../images/luxun/ZuihouYiciXunli/9-page-00001.jpg)
+![luxun front](../../../images/luxun/ZuihouYiciXunli/10-page-00001.jpg)
 
 {{< columns >}}
 
-休息之后，鲁迅精神似乎好了些，又兴致勃勃地继续参观。他细心倾听着青年木刻作者的介绍，并随时提出自己的意见。鲁迅赞扬那些表现了工农群众斗争精神的作品，恳切地指出某些作品观察不深，刀法失当的缺点。
+夜幕徐徐降临了，鲁迅这才和大家告别。青年们望着鲁迅渐渐远去的瘦弱身影，不禁想起他“横眉冷对千夫指，俯首甘为孺子牛”的著名诗句，想起他几十年的战斗历程。他们的眼眶湿润了。
 
 <--->
 
-Nach der Pause ging es Lu Xun dem Anschein nach etwas besser und er setzte seinen Ausstellungsbesuch mit großer Begeisterung fort. Er hörte den Erklärungen der jungen Holzschnittkünstler aufmerksam zu und teilte ihnen immer wieder seine Ansichten dazu mit. Lu Xun lobte die Werke, die den Kampfgeist der Massen der Arbeiter und Bauern ausstrahlten, wies aber auch offen auf Mängel in einigen der Werke hin, wie etwa eine nur oberflächliche Beobachtungsgabe oder eine unzureichende Handfertigkeit beim Schnitzen. 
+Erst als langsam die Nacht hereinbrach, verabschiedete sich Lu Xun sich von allen. Und als die jungen Leute Lu Xuns schwacher und magerer Gestalt hinterherblickten, die sich nach und nach immer weiter entfernte, da mussten sie an einen berühmten Vers eines seiner Gedichte denken: „Mit grimmigem Blick biete ich tausend auf mich gerichteten Fingern die Stirn, mit gesenktem Kopf diene ich den Menschen“. Auch dachten sie an seinen jahrzehntelangen Kampf. Und ihre Augen waren voller Tränen.
 
 {{< /columns >}}

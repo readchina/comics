@@ -2,14 +2,14 @@
 title: Page 11
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/11-page-00001.jpg)
+![luxun front](../../../images/luxun/YifuMukeDeGushi/12-page-00001.jpg)
 
 {{< columns >}}
 
-展览会正式展出前一天，国民党反动派市党部的老爷们来检查了。他们见到这幅木刻，仿佛就象\[sic\]受到鲁迅的严厉审判一样，害怕得\[sic\]发抖，哆嗦着说：“这，这幅画不行！”硬逼着主持人把这幅木刻剔去。
+展览会开幕了，青年找遍整个会场，没有发现他刻的《鲁迅像》。他向展览会主持人询问，主持人从抽屉里取出那幅《鲁迅像》，把国民党反动派检查老爷的卑劣行径告诉他，深情地说：“要知道，这是火，一团炽热的火啊！”
 
 <--->
 
-Einen Tag vor der offiziellen Eröffnung der Ausstellung kamen die Herrschaften vom städtischen Parteibüro der reaktionären Guomindang zur Inspektion der Ausstellungsstücke. Als sie den Holzschnitt sahen, erschauderten sie vor Angst, als empfingen sie das strenge Urteil von Lu Xun, und sagten zitternd: „Dieses da, dieses Bild geht nicht!" Und so zwangen sie die Veranstalter, das Bild wieder abzuhängen.
+Die Ausstellung wurde eröffnet und der junge Mann suchte den gesamten Veranstaltungsort ab, konnte sein Lu Xun Porträt aber nicht finden. Er fragte den Ausstellungsleiter danach, dieser das Bild holte aus einer Schublade und erzählte ihm von der niederträchtigen Aktion der Inspekteure der Reaktionäre der Guomindang. Er sagte mitfühlend: „Du musst wissen, das ist Feuer, glühend heißes Feuer!“
 
 {{< /columns >}}

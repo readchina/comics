@@ -2,14 +2,14 @@
 title: Page 02
 ---
 
-![luxun front](../../../images/luxun/MaiShuDeGuShi/2-page-00001.jpg)
+![luxun front](../../../images/luxun/MaiShuDeGuShi/3-page-00001.jpg)
 
 {{< columns >}}
 
-一九三二年深秋，一个细雨绵绵的日子。中午时分，上海内山书店里很清静，没有顾客。在店堂的一角，鲁迅正和书店主人，日本朋友内山完造谈论着国民党反动派压制进步文化的情况。这时，鲁迅的著作几乎全部被他们禁止了。
+中国人开的书店不能出售鲁迅著作，鲁迅就委托外国人开的书店代售，千方百计把革命真理传播到工农大众中去。鲁迅对内山完造说：“国民党不准书店发售我译的《毁灭》，其实《毁灭》是禁止不了的。”
 
 <--->
 
-Es war ein vernieselter Tag im Spätherbst des Jahres 1932. Um die Mittagszeit war es in der Uchiyama-Buchhandlung in Shanghai ganz ruhig, es waren keine Kunden da. In einer Ecke des Ladens unterhielt sich Lu Xun mit dem Ladenbesitzer, seinem japanischen Freund Kanzō Uchiyama, darüber, wie die fortschrittliche Kultur durch die Reaktionäre der Guomindang unterdrückt wurde. Zu jener Zeit hatten diese nahezu sämtliche literarischen Schriften von Lu Xun verboten.
+Von Chinesen betriebene Buchhandlungen durften Lu Xuns Werke nicht verkaufen, so dass er den Vertrieb seiner Bücher einer von einem Ausländer geführten Buchhandlung anvertraute, um die Wahrheit der Revolution mit allen Mitteln unter den Massen der Arbeiter und Bauern zu verbreiten. Lu Xun sagte zu Uchiyama Kanzō: „Die Guomindang erlaubt es Buchhandlungen nicht, das von mir übersetzte Werk *Die Neunzehn* zu verkaufen, doch *Die Neunzehn* lässt sich nicht verbieten."
 
 {{< /columns >}}

@@ -2,14 +2,14 @@
 title: Page 12
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/12-page-00001.jpg)
+![luxun front](../../../images/luxun/YifuMukeDeGushi/13-page-00001.jpg)
 
 {{< columns >}}
 
-展览会开幕了，青年找遍整个会场，没有发现他刻的《鲁迅像》。他向展览会主持人询问，主持人从抽屉里取出那幅《鲁迅像》，把国民党反动派检查老爷的卑劣行径告诉他，深情地说：“要知道，这是火，一团炽热的火啊！”
+青年拿回了这幅被禁止展出的木刻，把它珍藏在箱子里。过了些时候，他打开箱子，忽然想到：为什么不把这幅木刻寄给鲁迅先生看看，把它的遭遇告诉鲁迅先生呢？于是他立即写了一封信，连同这幅木刻，一起寄给了鲁迅。
 
 <--->
 
-Die Ausstellung wurde eröffnet und der junge Mann suchte den gesamten Veranstaltungsort ab, konnte sein Lu Xun Porträt aber nicht finden. Er fragte den Ausstellungsleiter danach, dieser das Bild holte aus einer Schublade und erzählte ihm von der niederträchtigen Aktion der Inspekteure der Reaktionäre der Guomindang. Er sagte mitfühlend: „Du musst wissen, das ist Feuer, glühend heißes Feuer!“
+Der junge Mann hatte das von der Ausstellung verbannte Bild zurückgenommen und gut in einer Kiste versteckt. Nach einiger Zeit öffnete er die Kiste wieder und hatte plötzlich eine Idee: Warum sollte er das Bild nicht an Lu Xun schicken und ihm erzählen, was dem Bild widerfahren ist? Also schrieb er sofort einen Brief und schickte ihn gemeinsam mit dem Bild an Lu Xun.
 
 {{< /columns >}}

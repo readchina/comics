@@ -2,14 +2,14 @@
 title: Page 05
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/5-page-00001.jpg)
+![luxun front](../../../images/luxun/YifuMukeDeGushi/6-page-00001.jpg)
 
 {{< columns >}}
 
-一九三六年春天，鲁迅收到了一幅木刻和一封信。这是一个由于从事革命木刻而遭到反动派逮捕、拘禁的青年寄来的。
+这副木刻正中是鲁迅的头像，像的四周是昏暗的夜，狂吠的狗，孤寂的荒坟；一支巨大的毛笔就象[sic]一杆钢枪，横扫着手握屠刀的吃人野兽。技术虽不成熟，但却渗透着对鲁迅的敬爱和对反动派的仇恨。
 
 <--->
 
-Im Frühjahr 1936 erhielt Lu Xun einen Holzschnitt und einen Brief. Geschickt wurden sie ihm von einem jungen Mann, der sich dem revolutionären Holzschnitt widmete und aus diesem Grund von den Reaktionären festgenommen und eingesperrt worden war.
+Im Zentrum des Holzschnitts befand sich ein Porträt von Lu Xun. Es war umgeben von düsterer Nacht, wild bellenden Hunden und einsamen, verlassenen Gräbern; ein riesengroßer Pinsel, der einem Gewehr glich, fegte eine menschenfressende Bestie, die ein Schlachtmesser in der Hand hielt, davon. Zwar war die Technik noch nicht ausgereift, doch war das Bild voller Respekt und Liebe für Lu Xun und voller Verachtung gegenüber den Reaktionären.
 
 {{< /columns >}}

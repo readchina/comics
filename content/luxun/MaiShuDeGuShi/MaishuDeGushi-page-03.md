@@ -2,14 +2,13 @@
 title: Page 03
 ---
 
-![luxun front](../../../images/luxun/MaiShuDeGuShi/3-page-00001.jpg)
+![luxun front](../../../images/luxun/MaiShuDeGuShi/4-page-00001.jpg)
 
 {{< columns >}}
 
-中国人开的书店不能出售鲁迅著作，鲁迅就委托外国人开的书店代售，千方百计把革命真理传播到工农大众中去。鲁迅对内山完造说："国民党不准书店发售我译的《毁灭》，其实《毁灭》是禁止不了的。"
-
+说话间，一个头戴黄色制服帽的公共汽车青年卖票工人走了进来。这个青年看了鲁迅和店主人一眼，就翻起书架上的书来。突然，书脊上“鲁迅”两字跳入了他的眼帘。他赶忙抽出一本，急切地翻看起来。
 <--->
 
-Von Chinesen betriebene Buchhandlungen durften Lu Xuns Werke nicht verkaufen, so dass er den Vertrieb seiner Bücher einer von einem Ausländer geführten Buchhandlung anvertraute, um die Wahrheit der Revolution mit allen Mitteln unter den Massen der Arbeiter und Bauern zu verbreiten. Lu Xun sagte zu Uchiyama Kanzō: „Die Guomindang erlaubt es Buchhandlungen nicht, das von mir übersetzte Werk *Die Neunzehn* zu verkaufen, doch *Die Neunzehn* lässt sich nicht verbieten."
+Während sie sich unterhielten, trat ein junger Verkäufer von Busfahrkarten mit gelber Uniformmütze auf dem Kopf herein. Der junge Mann warf Lu Xun und dem Ladenbesitzer einen kurzen Blick zu, bevor er anfing, sich die Bücher in den Regalen anzuschauen. Plötzlich sprang ihm der Name „Lu Xun" von einigen Buchrücken ins Auge. Sofort zog er ein Buch heraus und fing an, ungeduldig darin zu blättern.
 
 {{< /columns >}}

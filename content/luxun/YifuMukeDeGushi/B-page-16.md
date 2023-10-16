@@ -2,14 +2,14 @@
 title: Page 16
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/16-page-00001.jpg)
+![luxun front](../../../images/luxun/YifuMukeDeGushi/17-page-00001.jpg)
 
 {{< columns >}}
 
-鲁迅听完这个青年的诉说，愤慨地说：“为了刻一张文学家的像，得了这样的罪，这是大黑暗，也是大笑话。”青年苦笑一下，说：“这次坐牢倒给我增加了不少知识，使我见到了那么多残酷刑罚，真是惨不忍睹……
+“最惨的是和我关在同一房间里的一个年青农民。反动派说他是红军军长，把缝衣针插进他的指甲缝里，插了一只又一只，十个指头都插满了，但是他至死不招。到现在，他那坚贞不屈的形象，还时刻浮现在我的眼前。”
 
 <--->
 
-Als Lu Xun den Bericht des jungen Mannes angehört hatte, sagte er entrüstet: „Für das Schnitzen eines Schriftsteller-Porträts eine solche Strafe zu erhalten, das ist wirklich düster, aber auch total lächerlich.“ Der junge Mann lachte bitter auf und sagte: „Im Gefängnis habe ich unerwarteterweise vieles gelernt. Ich habe so viele brutale Strafen gesehen, es war wirklich nicht auszuhalten…“
+„Am Schlimmsten erging es einem jungen Bauern, der mit mir in eine Zelle gesperrt war. Die Reaktionäre meinten, er wäre ein Offizier der Roten Armee, und so bohrten sie ihm Nähnadeln unter die Fingernägel, eine Nadel nach der anderen, an allen zehn Fingern, aber bis er starb, gab er kein Geständnis ab. Bis zum heutigen Tag ist mir sein entschlossener und unbeugsamer Ausdruck noch immer vor Augen.“
 
 {{< /columns >}}

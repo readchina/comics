@@ -2,13 +2,14 @@
 title: Page 04
 ---
 
-![luxun front](../../../images/luxun/MaiShuDeGuShi/4-page-00001.jpg)
+![luxun front](../../../images/luxun/MaiShuDeGuShi/5-page-00001.jpg)
 
 {{< columns >}}
 
-说话间，一个头戴黄色制服帽的公共汽车青年卖票工人走了进来。这个青年看了鲁迅和店主人一眼，就翻起书架上的书来。突然，书脊上"鲁迅"两字跳入了他的眼帘。他赶忙抽出一本，急切地翻看起来。
+这就是鲁迅译的小说《毁灭》。鲁迅的著译，在那暗无天日的岁月里给了他多大的鼓舞啊！但是由于反动派的查禁，鲁迅的书越来越难买到了，今天在这里是意外发现。他按捺不住内心的喜悦，捧着这本书，舍不得放下。
+
 <--->
 
-Während sie sich unterhielten, trat ein junger Verkäufer von Busfahrkarten mit gelber Uniformmütze auf dem Kopf herein. Der junge Mann warf Lu Xun und dem Ladenbesitzer einen kurzen Blick zu, bevor er anfing, sich die Bücher in den Regalen anzuschauen. Plötzlich sprang ihm der Name „Lu Xun" von einigen Buchrücken ins Auge. Sofort zog er ein Buch heraus und fing an, ungeduldig darin zu blättern.
+Es war eben jener von Lu Xun übersetzte Roman *Die Neunzehn*. Was für eine enorme Inspiration Lu Xuns Schriften und Übersetzungen ihm in jenen finsteren Zeiten doch gegeben hatten! Doch aufgrund der Verbote durch die reaktionären Kräfte wurde es immer schwieriger, Lu Xuns Bücher zu erwerben. Dass er nun heute hier auf dieses Werk stieß, war ein unverhoffter Fund. Er konnte seine innere Freude nicht zurückhalten, hielt das Buch in den Händen und konnte es nicht mehr aus den Händen legen.
 
 {{< /columns >}}

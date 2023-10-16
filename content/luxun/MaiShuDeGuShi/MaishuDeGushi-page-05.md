@@ -2,14 +2,14 @@
 title: Page 05
 ---
 
-![luxun front](../../../images/luxun/MaiShuDeGuShi/5-page-00001.jpg)
+![luxun front](../../../images/luxun/MaiShuDeGuShi/6-page-00001.jpg)
 
 {{< columns >}}
 
-这就是鲁迅译的小说《毁灭》。鲁迅的著译，在那暗无天日的岁月里给了他多大的鼓舞啊！但是由于反动派的查禁，鲁迅的书越来越难买到了，今天在这里是意外发现。他按捺不住内心的喜悦，捧着这本书，舍不得放下。
+店主人走了过来。这个青年很有礼貌地问：“先生，这本书多少钱？”店主人接过书翻看了一下说：“一元四角。”青年伸手摸了摸衬衫的口袋，里面只剩一元钱了。他轻声说了一句：“对不起，我的钱不够。”
 
 <--->
 
-Es war eben jener von Lu Xun übersetzte Roman *Die Neunzehn*. Was für eine enorme Inspiration Lu Xuns Schriften und Übersetzungen ihm in jenen finsteren Zeiten doch gegeben hatten! Doch aufgrund der Verbote durch die reaktionären Kräfte wurde es immer schwieriger, Lu Xuns Bücher zu erwerben. Dass er nun heute hier auf dieses Werk stieß, war ein unverhoffter Fund. Er konnte seine innere Freude nicht zurückhalten, hielt das Buch in den Händen und konnte es nicht mehr aus den Händen legen.
+Der Ladenbesitzer kam zu ihm herüber. Der junge Mann fragte höflich: „Entschuldigen Sie, wieviel kostet dieses Buch?" Der Ladenbesitzer nahm das Buch, drehte es um und sagte: „Einen Yuan und vier Jiao." Der junge Mann griff in seine Hemdtasche und merkte, dass er nur noch einen Yuan übrighatte. Er sagte mit leiser Stimme: „Es tut mir leid, doch mein Geld reicht nicht aus."
 
 {{< /columns >}}

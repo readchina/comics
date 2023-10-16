@@ -2,14 +2,14 @@
 title: Page 06
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/6-page-00001.jpg)
+![luxun front](../../../images/luxun/YifuMukeDeGushi/7-page-00001.jpg)
 
 {{< columns >}}
 
-这副木刻正中是鲁迅的头像，像的四周是昏暗的夜，狂吠的狗，孤寂的荒坟；一支巨大的毛笔就象[sic]一杆钢枪，横扫着手握屠刀的吃人野兽。技术虽不成熟，但却渗透着对鲁迅的敬爱和对反动派的仇恨。
+一九三二年，这个青年才十八岁，由于受到鲁迅倡导革命木刻的影响，他和几个青年组织了一个木刻社。一次，他刻了一幅外国文学家的肖像，被特务发现了。他和另外两个青年便遭到了逮捕。
 
 <--->
 
-Im Zentrum des Holzschnitts befand sich ein Porträt von Lu Xun. Es war umgeben von düsterer Nacht, wild bellenden Hunden und einsamen, verlassenen Gräbern; ein riesengroßer Pinsel, der einem Gewehr glich, fegte eine menschenfressende Bestie, die ein Schlachtmesser in der Hand hielt, davon. Zwar war die Technik noch nicht ausgereift, doch war das Bild voller Respekt und Liebe für Lu Xun und voller Verachtung gegenüber den Reaktionären.
+Im Jahr 1932, als der junge Mann gerade erst achtzehn Jahre alt gewesen war, hatte er unter dem Einfluss von Lu Xuns Initiative für den revolutionären Holzschnitt mit einigen anderen jungen Leuten eine Gesellschaft für auf die Beine gestellt. Einmal hatte er das Porträt eines ausländischen Schriftstellers geschnitzt, was von einem Spitzel entdeckt wurde. Er und zwei weitere junge Leute waren daraufhin festgenommen worden.
 
 {{< /columns >}}

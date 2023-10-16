@@ -2,14 +2,14 @@
 title: Page 02
 ---
 
-![luxun front](../../../images/luxun/ZuihouYiciXunli/2-page-00001.jpg)
+![luxun front](../../../images/luxun/ZuihouYiciXunli/3-page-00001.jpg)
 
 {{< columns >}}
 
-一九三六年春天起，鲁迅不幸得了重病，经过检查，肺部已烂了四分之三，体重也不到四十公斤，身体很虚弱。但他在病中坚持和国民党反动派以及混入革命队伍内的“蛀虫”作斗争，同时关心着青年一代的成长。
+十月八日，是“中华全国木刻第二回流动展览会”展出的最后一天。那天午后，鲁迅抱病赶去参观。他多年来呕心沥血培育的这株幼苗，在白色恐怖的威胁下，终于成长起来，并开出了一枝枝花朵，这怎能不使鲁迅高兴呢！
 
 <--->
 
-Seit dem Frühjahr des Jahres 1936 war Lu Xun leider schwer krank. Eine Untersuchung ergab, dass sein Lungengewebe bereits zu drei Vierteln zerstört war. Er wog keine 40 Kilogramm mehr und war sehr schwach. Doch trotz seiner Erkrankung kämpfte er weiter gegen die Reaktionäre der Guomindang und die „Schädlinge“, die in die revolutionären Truppen eigeschleust waren. Zugleich lag ihm die Entwicklung der jungen Generation am Herzen.
+Der 8. Oktober war der letzte Ausstellungstag der „2. Landesweiten Wanderausstellung für chinesische Holzschnitte“. Am Nachmittag machte sich der kranke Lu Xun daher zügig auf den Weg zur Ausstellung. Viele Jahre hatte er all seine Kraft darauf verwendet die Schösslinge auszubilden, und nun waren diese unter der Bedrohung durch den weißen Terror endlich herangewachsen und hatten selbst Blüten getrieben. Wie hätte dies Lu Xun nicht glücklich machen können!
 
 {{< /columns >}}
