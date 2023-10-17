@@ -1,5 +1,5 @@
 ---
-title: Front and back cover
+title: 0 Front and back cover
 ---
 
 ![luxun cover](./../../images/luxun/front-page-00001.jpg)
