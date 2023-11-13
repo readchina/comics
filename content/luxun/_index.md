@@ -73,4 +73,3 @@ Sheng Zengxiang 盛增祥 (Illustration), Shi Zhongpei 史中培 (Adaptation) 19
 Shi Zhongpei 史中培1976: *Geschichten über Lu Xun und Junge Leute* 鲁迅和青年的故事, Shanghai: Shanghai renmin chubanshe.
 
 Tang, Xiaobing 2007: *Origins of the Chinese Avant-Garde: The Modern Woodcut Movement*, Berkeley: University of California Press. 
-
