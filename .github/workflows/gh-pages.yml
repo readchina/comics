@@ -33,7 +33,7 @@ jobs:
           sudo apt install curl jq
           npm i -g postcss postcss-cli autoprefixer
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
